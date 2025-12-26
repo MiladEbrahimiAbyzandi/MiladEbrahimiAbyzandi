@@ -21,7 +21,7 @@ My interests include **applied machine learning, MLOps, time series forecasting,
 ## 🚀 Featured Projects
 - 🔐 **Fraud Detection System (MLOps)**   
 End-to-end ML pipeline including feature engineering, model training, evaluation, FastAPI-based inference, Dockerized deployment, and CI/CD with GitHub Actions.
-  👉 *[Repository link](https://github.com/MiladEbrahimiAbyzandi/epidote_project)*
+  👉 *[Repository link](https://github.com/MiladEbrahimiAbyzandi/fraud-detection-mlops)*
 
 ---
 
