@@ -20,7 +20,7 @@ My interests include **applied machine learning, MLOps, time series forecasting,
 
 ## 🚀 Featured Projects
 - 🔐 **Fraud Detection System (MLOps)**   
-End-to-end ML pipeline including feature engineering, model training, evaluation, FastAPI-based inference, Dockerized deployment, and CI/CD with GitHub Actions.
+End-to-end ML pipeline exposed through a FastAPI workflow (data ingestion, transformations, training, evaluation, and inference). Dockerized and deployed on Google Cloud Run, with CI/CD via GitHub Actions.
   👉 *[Repository link](https://github.com/MiladEbrahimiAbyzandi/fraud-detection-mlops)*
 
 ---
